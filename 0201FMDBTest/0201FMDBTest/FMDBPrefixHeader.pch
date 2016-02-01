@@ -1,0 +1,17 @@
+//
+//  FMDBPrefixHeader.pch
+//  0201FMDBTest
+//
+//  Created by FengZhen on 16/2/1.
+//  Copyright © 2016年 FengZhen. All rights reserved.
+//
+
+#ifndef FMDBPrefixHeader_pch
+#define FMDBPrefixHeader_pch
+
+#import "FMDB.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* FMDBPrefixHeader_pch */
